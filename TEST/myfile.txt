@@ -1,3 +1,4 @@
 This is a test file, changes to the end of this file
 this is a new line
 This is the bug fix
+Another new bug fix
