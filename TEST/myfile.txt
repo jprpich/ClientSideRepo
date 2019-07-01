@@ -3,3 +3,4 @@ this is a new line
 This is the bug fix
 Another new bug fix, server side change
 server side line
+another line
